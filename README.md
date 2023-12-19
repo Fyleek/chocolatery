@@ -1,1 +1,1 @@
-# chocolatery
+# chocolatey
